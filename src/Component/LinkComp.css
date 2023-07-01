@@ -1,0 +1,78 @@
+@media screen and (min-width:320px) and (max-width:480px) {
+.comp{
+    font-size: 15px;
+     text-align: center;
+     padding: 10px 0px;
+     border-radius: 30px;
+     margin: 10px 0px;
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+     
+}
+.comp>a{
+    text-decoration: none;
+    color: white;
+   
+}
+img{
+    width: 50px;
+    height: 25px;
+    margin-left: 50px; 
+}
+}
+
+@media screen and (min-width:481px ) and (max-width:720px) {
+    
+    .comp{
+      
+        font-size: 20px;
+         text-align: center;
+         padding: 18px 0px;
+         border-radius: 40px;
+         margin: 10px 0px;
+         display: flex;
+         align-items: center;
+         cursor: pointer;
+         
+    }
+    .comp>a{
+        text-decoration: none;
+        color: white;
+       
+    }
+    img{
+        width: 50px;
+        height: 25px;
+        margin-left: 80px; 
+    }
+    }
+@media screen and (min-width:721px ) {
+    
+.comp{
+  
+    font-size: 20px;
+     text-align: center;
+     padding: 18px 0px;
+     border-radius: 40px;
+     margin: 10px 0px;
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+     
+}
+.comp>a{
+    text-decoration: none;
+    color: white;
+   
+}
+img{
+    width: 50px;
+    height: 25px;
+    margin-left: 80px; 
+}
+}
+
+/* 
+google : #ffa845
+github :  #5e5e69 */
