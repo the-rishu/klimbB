@@ -1,6 +1,4 @@
-.body{
-  margin: 0px;
-  border: solid black 2px;
-  background-color: yellow;
- 
+*{
+    margin: 0px;
+    padding: 0px;
 }

@@ -1,6 +1,7 @@
 .app{
-    border: solid yellow 2px;
     background-color: #234560;
+    background-image: linear-gradient(to bottom left ,#234560,#7f2da0);
     width: 100%;
-    margin: 0px;
+    /* border: solid yellow 2px; */
+    min-height: 100vh;
 }
